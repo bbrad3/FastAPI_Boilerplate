@@ -6,10 +6,10 @@
 1. Fork...clone...open repo
 1. Create a venv
     - `python3 -m venv venv`
-1. Install dependencies
-    - `pip install -r requirements.txt`
 1. Activate venv
     - `source venv/bin/activate`
+1. Install dependencies
+    - `pip install -r requirements.txt`
 1. Start server using
     - `uvicorn main:app --reload`
 1. Your done!
